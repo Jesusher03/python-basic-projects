@@ -1,11 +1,15 @@
-# python-basic-projects
+# Python Basic Projects
 
-This reposity contains my beginner Python projects whiletrasitioning into QA / Automation
+Collection of beginner-to-intermediate Python scripts to strengthen core programming skills.
 
-## Projects
+### Projects Included
+- Calculator v1 & v2
+- Text Analyzer (string manipulation)
 
--Calculator (basic operatins)
--Text Analyzer (string manipulation and validation)
+### 🛠️ Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-Developer: Jesus Hernandez
-Started: February
+### How to run
+```bash
+python calculator.py
+python text_analyzer.py
